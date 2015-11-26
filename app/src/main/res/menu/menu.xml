@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/red"
+        android:icon="@drawable/openicon"
+
+        android:title="set Red" />
+
+    <item android:id="@+id/blue"
+
+        android:icon="@drawable/saveicon"
+
+        android:title="Set blue"/>
+
+    <item android:id="@+id/yellow"
+
+        android:icon="@drawable/saveicon"
+
+        android:title="Set yellow" />
+
+</menu>
